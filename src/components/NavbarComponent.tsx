@@ -13,7 +13,7 @@ function NavbarComponent() {
         <ul className="sidebar" style={{ display: isSidebarOpen ? 'flex' : 'none' }}>
           <li>
             <a href="#home">
-              <img src="/IMG/LOGO2.jpg" alt="Aashu Baria Logo" className="logo" />
+              <img src="public/IMG/LOGO2.jpg" alt="Aashu Baria Logo" className="logo" />
             </a>
           </li>
           <li onClick={toggleSidebar}>
@@ -31,7 +31,7 @@ function NavbarComponent() {
         <ul>
           <li>
             <a href="#home">
-              <img src="/IMG/LOGO2.jpg" alt="Aashu Baria Logo" className="logo" />
+              <img src="public/IMG/LOGO2.jpg" alt="Aashu Baria Logo" className="logo" />
             </a>
           </li>
           <li className="hideOnMobile"><a href="#home">Home</a></li>

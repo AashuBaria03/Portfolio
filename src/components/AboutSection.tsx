@@ -3,7 +3,7 @@ function AboutSection() {
       <div id="expertise">
         <div className="expertise">
           <div className="photo">
-            <img src="/IMG/AboutMe/Aashu1.jpg" alt="MyIMG" loading="lazy" />
+            <img src="public/IMG/AboutMe/Aashu1.jpg" alt="MyIMG" loading="lazy" />
           </div>
           <div className="content">
             <h1>About Me</h1>

@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 interface Project {
     title: string;
     image: string;
@@ -25,7 +27,11 @@ interface Project {
             ))}
           </div>
           <div className="project-links">
-            <a href={project.notebookLink} target="_blank" className="btn" rel="noopener noreferrer">View Notebook</a>
+            {project.title === 'E-Sport Registration Website' ? (
+              <Link to="/notebook/gamezone" className="btn">View Notebook</Link>
+            ) : (
+              <button className="btn" disabled>View Notebook</button>
+            )}
             <a href={project.codeLink} target="_blank" className="btn" rel="noopener noreferrer">View Code</a>
           </div>
         </div>

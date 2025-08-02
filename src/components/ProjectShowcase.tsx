@@ -49,7 +49,7 @@ function ProjectShowcase() {
         {/* Screenshot Sections */}
         <div className="my-screenshort">
           <div className="SScard">
-            <img src="/IMG/ProjectShowcase/Screenshot (41).png" alt="Screenshot 1" />
+            <img src="public/IMG/ProjectShowcase/Screenshot (41).png" alt="Screenshot 1" />
           </div>
         </div>
         <br />
@@ -58,7 +58,7 @@ function ProjectShowcase() {
 
         <div className="my-screenshort">
           <div className="SScard">
-            <img src="/IMG/ProjectShowcase/Screenshot (42).png" alt="Screenshot 2" />
+            <img src="public/IMG/ProjectShowcase/Screenshot (42).png" alt="Screenshot 2" />
           </div>
         </div>
         <br />
@@ -67,7 +67,7 @@ function ProjectShowcase() {
 
         <div className="my-screenshort">
           <div className="SScard">
-            <img src="/IMG/ProjectShowcase/Screenshot (50).png" alt="Screenshot 3" />
+            <img src="public/IMG/ProjectShowcase/Screenshot (50).png" alt="Screenshot 3" />
           </div>
         </div>
         <br />
@@ -76,7 +76,7 @@ function ProjectShowcase() {
 
         <div className="my-screenshort">
           <div className="SScard">
-            <img src="/IMG/ProjectShowcase/Screenshot (51).png" alt="Screenshot 4" />
+            <img src="public/IMG/ProjectShowcase/Screenshot (51).png" alt="Screenshot 4" />
           </div>
         </div>
         <br />

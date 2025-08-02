@@ -6,7 +6,7 @@ function FooterSection() {
             <h3>Aashu Baria</h3><br />
             <div className="address">
               <a>
-                <img src="/SVG/location.png" alt="" width="24px" height="24px" />
+                <img src="public/SVG/location.png" alt="" width="24px" height="24px" />
               </a>
               <h5>
                 My Location: Block-B-[10] Adit boys hostel, AD Patel Institute of Technology, New V. Nagar, New Vallabh Vidyanagar, GIDC, Anand, Vitthal Udyognagar INA, Gujarat 338249
